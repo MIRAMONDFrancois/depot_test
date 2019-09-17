@@ -14,4 +14,6 @@ public class NewClass {
     truc = "machin";
     ytkcd
     truc="truc";
+    
+    // Ajoutez un commentaire
 }
