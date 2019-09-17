@@ -11,9 +11,7 @@
 public class NewClass {
     // Yes
     private String truc = "bidule";
-    truc = "machin";
-    ytkcd
-    truc="truc";
+    private int machin = 5;
     
     // Ajoutez un commentaire
 }
